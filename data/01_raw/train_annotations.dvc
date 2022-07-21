@@ -1,0 +1,5 @@
+outs:
+- md5: c296ba0610a44981ac6849c58e4dd6b7.dir
+  size: 14628107
+  nfiles: 351
+  path: train_annotations

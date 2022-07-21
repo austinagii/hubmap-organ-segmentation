@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "1.23.1"
+scipy = "1.8.1"
+scikit-learn = "1.1.1"
+torch = "1.12.0"
+
+[dev-packages]
+kedro = "0.18.2"
+jupyterlab = "3.4.3"
+
+[requires]
+python_version = "3.10"

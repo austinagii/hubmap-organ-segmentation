@@ -1,0 +1,35 @@
+{
+    "name": "hubmap",
+    "version": "1.0.1",
+    "description": "Based on the Kaggle competition to identify and segment Functional Tissue Units (FTUs) in organ cells",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "prepare": "husky install",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/austinagii/hubmap-organ-segmentation.git"
+    },
+    "keywords": [
+        "hubmap",
+        "segmentation",
+        "kaggle",
+        "competition",
+        "machine-learning"
+    ],
+    "author": "Kadeem Austin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/austinagii/hubmap-organ-segmentation/issues"
+    },
+    "homepage": "https://github.com/austinagii/hubmap-organ-segmentation#readme",
+    "devDependencies": {
+        "@commitlint/cli": "^17.0.3",
+        "@commitlint/config-conventional": "^17.0.3",
+        "husky": "^8.0.1"
+    }
+}

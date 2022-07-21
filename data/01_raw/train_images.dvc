@@ -1,0 +1,5 @@
+outs:
+- md5: 9c1283a09ff229563b3d5e4bc23166bf.dir
+  size: 9349537842
+  nfiles: 351
+  path: train_images
